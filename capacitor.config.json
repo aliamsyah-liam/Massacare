@@ -1,0 +1,13 @@
+{
+  "appId": "com.massacare.game",
+  "appName": "Massacare",
+  "webDir": "www",
+  "backgroundColor": "#07090a",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
